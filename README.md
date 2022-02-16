@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CesarAFC 
 - 👀 I’m interested in make Apps, frontend, backend, cloud computing and data analitycs. 
 - 🌱 I’m currently learning JavaScript and Python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on new projects to develop what I learned, implement best practices on code and dealing with challenges. 
+- 📫 You can reach me at cafc2030@gmail.com
 
 <!---
 CesarAFC/CesarAFC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
