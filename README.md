@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CesarAFC 
-- 👀 I’m interested in make Apps, frontend, backend, cloud computing and data analitycs. 
+- 👀 I’m interested in make Apps, frontend, backend, cloud computing.
 - 🌱 I’m currently learning React and Python.
 - 💞️ I’m looking to collaborate on new projects to develop what I learned, implement best practices on code and dealing with challenges. 
 - 📫 You can reach me at cafc2030@gmail.com
