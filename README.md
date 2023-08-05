@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently collaborating on [Uniformes la 23](https://github.com/cristhian2121/app_x)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Node**
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://myportfolio-cesarafc.vercel.app/)
 
