@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cesarafc&label=Profile%20views&color=0e75b6&style=flat" alt="cesarafc" /> </p>
 
-- 🔭 I’m currently collaborating on [Coderlabs](https://www.coderlabs.co) and CloudTask
+- 🔭 I’m currently collaborating on [Coderlabs](https://www.coderlabs.co) and [CloudTask](https://shop.cloudtask.com/)
 
 - 🌱 I’m currently learning **Node**
 
