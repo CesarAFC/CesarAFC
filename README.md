@@ -13,8 +13,6 @@
 
 - 💞️ I’m looking to collaborate on new projects to develop what I learned, implement best practices on code and dealing with challenges. 
 
-- 📫 You can reach me at **cafc2030@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/cesar-fontalvo-conrado-2034b811a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cesar-fontalvo-conrado-2034b811a/" height="30" width="40" /></a>
