@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cesarafc&label=Profile%20views&color=0e75b6&style=flat" alt="cesarafc" /> </p>
 
-- 🔭 I’m currently collaborating on [Coderlabs](https://www.coderlabs.co) and [CloudTask](https://shop.cloudtask.com/)
+- 🔭 I’m currently collaborating on Wompi
 
 - 🌱 I’m currently learning **Node**
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, react-query, redux, MaterialUI**
 
-- 💞️ I’m looking to collaborate on new projects to develop what I learned, implement best practices on code and dealing with challenges. 
+- 💞️ Interest in the intersection of AI and front-end development. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
